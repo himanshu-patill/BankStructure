@@ -1,0 +1,15 @@
+C:\Users\himanshu.patil\source\repos\BankStructure\BankStructure\bin\Debug\net6.0\BankStructure.exe
+C:\Users\himanshu.patil\source\repos\BankStructure\BankStructure\bin\Debug\net6.0\BankStructure.deps.json
+C:\Users\himanshu.patil\source\repos\BankStructure\BankStructure\bin\Debug\net6.0\BankStructure.runtimeconfig.json
+C:\Users\himanshu.patil\source\repos\BankStructure\BankStructure\bin\Debug\net6.0\BankStructure.dll
+C:\Users\himanshu.patil\source\repos\BankStructure\BankStructure\bin\Debug\net6.0\BankStructure.pdb
+C:\Users\himanshu.patil\source\repos\BankStructure\BankStructure\obj\Debug\net6.0\BankStructure.csproj.AssemblyReference.cache
+C:\Users\himanshu.patil\source\repos\BankStructure\BankStructure\obj\Debug\net6.0\BankStructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\himanshu.patil\source\repos\BankStructure\BankStructure\obj\Debug\net6.0\BankStructure.AssemblyInfoInputs.cache
+C:\Users\himanshu.patil\source\repos\BankStructure\BankStructure\obj\Debug\net6.0\BankStructure.AssemblyInfo.cs
+C:\Users\himanshu.patil\source\repos\BankStructure\BankStructure\obj\Debug\net6.0\BankStructure.csproj.CoreCompileInputs.cache
+C:\Users\himanshu.patil\source\repos\BankStructure\BankStructure\obj\Debug\net6.0\BankStructure.dll
+C:\Users\himanshu.patil\source\repos\BankStructure\BankStructure\obj\Debug\net6.0\refint\BankStructure.dll
+C:\Users\himanshu.patil\source\repos\BankStructure\BankStructure\obj\Debug\net6.0\BankStructure.pdb
+C:\Users\himanshu.patil\source\repos\BankStructure\BankStructure\obj\Debug\net6.0\BankStructure.genruntimeconfig.cache
+C:\Users\himanshu.patil\source\repos\BankStructure\BankStructure\obj\Debug\net6.0\ref\BankStructure.dll
